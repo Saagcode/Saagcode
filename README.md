@@ -1,12 +1,21 @@
-var gretting = 'Hello World! How are you?' //
-gretting.innerHTML //
-document.write('I wish you enjoy my profile, thanks for coming') //
-/* 👋 Hi, I’m Gabriel, my nickname is @Saagcode. */
-/* 👀 I’m interested in learn and share knowledge about coding and mainly Js 
-and through of Github show to the people my progress  */
-/* 🌱 I’m currently learning in Js, Html:5 and Css.  */
-/* 📫 I’m from Brazil, you can reach me in my ig, @sabino._g */
+🌎 Nacionalidade: Brasil, SC
 
-<!---
-I create this Github with the purpose to register my progress and show to some people who can like it.
---->
+👤 Nome: Gabriel Vinicius Moraes Sabino
+
+🎂 Idade: 23
+
+📚 Formação: Cursou Direito na Universidade da Região de Joinville
+
+💻 Conhecimento: Básico em Python
+
+🚀 Especializando em: JavaScript, CSS3, HTML5
+
+📷 Instagram: @sabino._g
+
+📚 Curso: Análise e Desenvolvimento de Sistemas na Uniasselvi
+
+🌐 Inglês: Avançado, cursando na Topway English School
+
+🔗 LinkedIn: /gabriel-sabino-073289211/
+
+👨‍💻 Procurando por um estágio
