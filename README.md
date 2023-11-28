@@ -6,9 +6,9 @@
 
 📚 Formação: Cursou Direito na Universidade da Região de Joinville
 
-💻 Conhecimento: Básico em Python
+💻 Conhecimento: JavaScript, CSS3, HTML5, Python
 
-🚀 Especializando em: JavaScript, CSS3, HTML5
+🚀 Especializando em: React, Angular, Vue
 
 📷 Instagram: @sabino._g
 
