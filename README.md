@@ -4,11 +4,7 @@
 
 🎂 Idade: 23
 
-📚 Formação: Cursou Direito na Universidade da Região de Joinville
-
-💻 Conhecimento: JavaScript, CSS3, HTML5, Python
-
-🚀 Especializando em: React
+💻 Conhecimento: JavaScript, CSS3, HTML5, Python, ReactJs
 
 📷 Instagram: @sabino._g
 
@@ -16,4 +12,4 @@
 
 🌐 Inglês: Avançado, cursando na Topway English School
 
-👨‍💻 Procurando por um estágio
+
