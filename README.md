@@ -10,6 +10,6 @@
 
 📚 Curso: Análise e Desenvolvimento de Sistemas na Uniasselvi
 
-🌐 Inglês: Avançado, cursando na Topway English School
+🌐 Inglês: Avançado.
 
 
